@@ -1,4 +1,4 @@
-Eu
-Te 
-Amo
+
 HEAD
+qualquer coisastatus
+esta linha foi modificada no ramo teste
